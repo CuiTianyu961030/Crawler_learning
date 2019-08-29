@@ -1,0 +1,62 @@
+area,population,iso,country_or_district,currency_name,capital,continent,tld,currency_code,phone,postal_code_format,postal_code_regex,languages,neighbours
+"647,500 square kilometres","29,121,286",AF,Afghanistan,Afghani,Kabul,AS,.af,AFN,93,,,"fa-AF,ps,uz-AF,tk",TM IR TJ PK UZ 
+"447,400 square kilometres","27,865,738",UZ,Uzbekistan,Som,Tashkent,AS,.uz,UZS,998,######,^(\d{6})$,"uz,ru,tg",TM AF KG TJ KZ 
+"2,717,300 square kilometres","15,340,000",KZ,Kazakhstan,Tenge,Astana,AS,.kz,KZT,7,######,^(\d{6})$,"kk,ru",TM KG UZ RU 
+"198,500 square kilometres","5,508,626",KG,Kyrgyzstan,Som,Bishkek,AS,.kg,KGS,996,######,^(\d{6})$,"ky,uz,ru",TJ UZ KZ 
+"647,500 square kilometres","29,121,286",AF,Afghanistan,Afghani,Kabul,AS,.af,AFN,93,,,"fa-AF,ps,uz-AF,tk",TM IR TJ PK UZ 
+"447,400 square kilometres","27,865,738",UZ,Uzbekistan,Som,Tashkent,AS,.uz,UZS,998,######,^(\d{6})$,"uz,ru,tg",TM AF KG TJ KZ 
+"803,940 square kilometres","184,404,791",PK,Pakistan,Rupee,Islamabad,AS,.pk,PKR,92,#####,^(\d{5})$,"ur-PK,en-PK,pa,sd,ps,brh",AF IR 
+"803,940 square kilometres","184,404,791",PK,Pakistan,Rupee,Islamabad,AS,.pk,PKR,92,#####,^(\d{5})$,"ur-PK,en-PK,pa,sd,ps,brh",AF IR 
+"143,100 square kilometres","7,487,489",TJ,Tajikistan,Somoni,Dushanbe,AS,.tj,TJS,992,######,^(\d{6})$,"tg,ru",AF KG UZ 
+"143,100 square kilometres","7,487,489",TJ,Tajikistan,Somoni,Dushanbe,AS,.tj,TJS,992,######,^(\d{6})$,"tg,ru",AF KG UZ 
+"1,648,000 square kilometres","76,923,300",IR,Iran,Rial,Tehran,AS,.ir,IRR,98,##########,^(\d{10})$,"fa-IR,ku",TM AF IQ AM PK AZ TR 
+"780,580 square kilometres","77,804,122",TR,Turkey,Lira,Ankara,AS,.tr,TRY,90,#####,^(\d{5})$,"tr-TR,ku,diq,az,av",SY GE IQ IR GR AM AZ BG 
+"86,600 square kilometres","8,303,512",AZ,Azerbaijan,Manat,Baku,AS,.az,AZN,994,AZ ####,^(?:AZ)*(\d{4})$,"az,ru,hy",GE IR AM TR RU 
+"29,800 square kilometres","2,968,000",AM,Armenia,Dram,Yerevan,AS,.am,AMD,374,######,^(\d{6})$,hy,GE IR AZ TR 
+"437,072 square kilometres","29,671,605",IQ,Iraq,Dinar,Baghdad,AS,.iq,IQD,964,#####,^(\d{5})$,"ar-IQ,ku,hy",SY SA IR JO TR KW 
+"1,648,000 square kilometres","76,923,300",IR,Iran,Rial,Tehran,AS,.ir,IRR,98,##########,^(\d{10})$,"fa-IR,ku",TM AF IQ AM PK AZ TR 
+"488,100 square kilometres","4,940,916",TM,Turkmenistan,Manat,Ashgabat,AS,.tm,TMT,993,######,^(\d{6})$,"tk,ru,uz",AF IR UZ KZ 
+"488,100 square kilometres","4,940,916",TM,Turkmenistan,Manat,Ashgabat,AS,.tm,TMT,993,######,^(\d{6})$,"tk,ru,uz",AF IR UZ KZ 
+"329,560 square kilometres","89,571,130",VN,Vietnam,Dong,Hanoi,AS,.vn,VND,84,######,^(\d{6})$,"vi,en,fr,zh,km",LA KH 
+"82,880 square kilometres","4,975,593",AE,United Arab Emirates,Dirham,Abu Dhabi,AS,.ae,AED,971,,,"ar-AE,fa,en,hi,ur",SA OM 
+"514,000 square kilometres","67,089,500",TH,Thailand,Baht,Bangkok,AS,.th,THB,66,#####,^(\d{5})$,"th,en",LA MM KH MY 
+"185,180 square kilometres","22,198,110",SY,Syria,Pound,Damascus,AS,.sy,SYP,963,,,"ar-SY,ku,hy,arc,fr,en",IQ JO IL TR LB 
+"65,610 square kilometres","21,513,990",LK,Sri Lanka,Rupee,Colombo,AS,.lk,LKR,94,#####,^(\d{5})$,"si,ta,en", 
+"98,480 square kilometres","48,422,644",KR,South Korea,Won,Seoul,AS,.kr,KRW,82,SEOUL ###-###,^(?:SEOUL)*(\d{6})$,"ko-KR,en",KP 
+692 square kilometres,"4,701,069",SG,Singapore,Dollar,Singapur,AS,.sg,SGD,65,######,^(\d{6})$,"cmn,en-SG,ms-SG,ta-SG,zh-SG", 
+"1,960,582 square kilometres","25,731,776",SA,Saudi Arabia,Rial,Riyadh,AS,.sa,SAR,966,#####,^(\d{5})$,ar-SA,QA OM IQ YE JO AE KW 
+"11,437 square kilometres","840,926",QA,Qatar,Rial,Doha,AS,.qa,QAR,974,,,"ar-QA,es",SA 
+"300,000 square kilometres","99,900,177",PH,Philippines,Peso,Manila,AS,.ph,PHP,63,####,^(\d{4})$,"tl,en-PH,fil", 
+"5,970 square kilometres","3,800,000",PS,Palestinian Territory,Shekel,East Jerusalem,AS,.ps,ILS,970,,,ar-PS,JO IL 
+"212,460 square kilometres","2,967,717",OM,Oman,Rial,Muscat,AS,.om,OMR,968,###,^(\d{3})$,"ar-OM,en,bal,ur",SA YE AE 
+"120,540 square kilometres","22,912,177",KP,North Korea,Won,Pyongyang,AS,.kp,KPW,850,###-###,^(\d{6})$,ko-KP,KR RU 
+"140,800 square kilometres","28,951,852",NP,Nepal,Rupee,Kathmandu,AS,.np,NPR,977,#####,^(\d{5})$,"ne,en", 
+"678,500 square kilometres","53,414,374",MM,Myanmar,Kyat,Nay Pyi Taw,AS,.mm,MMK,95,#####,^(\d{5})$,my,LA TH BD 
+"1,565,000 square kilometres","3,086,918",MN,Mongolia,Tugrik,Ulan Bator,AS,.mn,MNT,976,######,^(\d{6})$,"mn,ru",RU 
+300 square kilometres,"395,650",MV,Maldives,Rufiyaa,Male,AS,.mv,MVR,960,#####,^(\d{5})$,"dv,en", 
+"329,750 square kilometres","28,274,729",MY,Malaysia,Ringgit,Kuala Lumpur,AS,.my,MYR,60,#####,^(\d{5})$,"ms-MY,en,zh,ta,te,ml,pa,th",BN TH ID 
+"10,400 square kilometres","4,125,247",LB,Lebanon,Pound,Beirut,AS,.lb,LBP,961,#### ####|####,^(\d{4}(\d{4})?)$,"ar-LB,fr-LB,en,hy",SY IL 
+"236,800 square kilometres","6,368,162",LA,Laos,Kip,Vientiane,AS,.la,LAK,856,#####,^(\d{5})$,"lo,fr,en",MM KH TH VN 
+"17,820 square kilometres","2,789,132",KW,Kuwait,Dinar,Kuwait City,AS,.kw,KWD,965,#####,^(\d{5})$,"ar-KW,en",SA IQ 
+"92,300 square kilometres","6,407,085",JO,Jordan,Dinar,Amman,AS,.jo,JOD,962,#####,^(\d{5})$,"ar-JO,en",SY SA IQ IL PS 
+"377,835 square kilometres","127,288,000",JP,Japan,Yen,Tokyo,AS,.jp,JPY,81,###-####,^(\d{7})$,ja, 
+"20,770 square kilometres","7,353,985",IL,Israel,Shekel,Jerusalem,AS,.il,ILS,972,#####,^(\d{5})$,"he,ar-IL,en-IL,",SY JO LB EG PS 
+"1,919,440 square kilometres","242,968,342",ID,Indonesia,Rupiah,Jakarta,AS,.id,IDR,62,#####,^(\d{5})$,"id,en,nl,jv",PG TL MY 
+"69,700 square kilometres","4,630,000",GE,Georgia,Lari,Tbilisi,AS,.ge,GEL,995,####,^(\d{4})$,"ka,ru,hy,az",AM AZ TR RU 
+14 square kilometres,628,CC,Cocos Islands,Dollar,West Island,AS,.cc,AUD,61,,,"ms-CC,en", 
+135 square kilometres,"1,500",CX,Christmas Island,Dollar,Flying Fish Cove,AS,.cx,AUD,61,####,^(\d{4})$,"en,zh,ms-CC", 
+"181,040 square kilometres","14,453,680",KH,Cambodia,Riels,Phnom Penh,AS,.kh,KHR,855,#####,^(\d{5})$,"km,fr,en",LA TH VN 
+"5,770 square kilometres","395,027",BN,Brunei,Dollar,Bandar Seri Begawan,AS,.bn,BND,673,@@####,^([A-Z]{2}\d{4})$,"ms-BN,en-BN",MY 
+60 square kilometres,"4,000",IO,British Indian Ocean Territory,Dollar,Diego Garcia,AS,.io,USD,246,,,en-IO, 
+"47,000 square kilometres","699,847",BT,Bhutan,Ngultrum,Thimphu,AS,.bt,BTN,975,,,dz, 
+"144,000 square kilometres","156,118,464",BD,Bangladesh,Taka,Dhaka,AS,.bd,BDT,880,####,^(\d{4})$,"bn-BD,en",MM 
+665 square kilometres,"738,004",BH,Bahrain,Dinar,Manama,AS,.bh,BHD,973,####|###,^(\d{3}\d?)$,"ar-BH,en,fa,ur", 
+443 square kilometres,"86,754",AG,Antigua and Barbuda,Dollar,St. John's,NA,.ag,XCD,+1-268,,,en-AG, 
+"14,000,000 square kilometres",0,AQ,Antarctica,,,AN,.aq,,,,,, 
+102 square kilometres,"13,254",AI,Anguilla,Dollar,The Valley,NA,.ai,XCD,+1-264,,,en-AI, 
+"1,246,700 square kilometres","13,068,161",AO,Angola,Kwanza,Luanda,AF,.ao,AOA,244,,,pt-AO,CD NA ZM CG 
+468 square kilometres,"84,000",AD,Andorra,Euro,Andorra la Vella,EU,.ad,EUR,376,AD###,^(?:AD)*(\d{3})$,ca,ES FR 
+199 square kilometres,"57,881",AS,American Samoa,Dollar,Pago Pago,OC,.as,USD,+1-684,,,"en-AS,sm,to", 
+"2,381,740 square kilometres","34,586,184",DZ,Algeria,Dinar,Algiers,AF,.dz,DZD,213,#####,^(\d{5})$,ar-DZ,NE EH LY MR TN MA ML 
+"28,748 square kilometres","2,986,952",AL,Albania,Lek,Tirana,EU,.al,ALL,355,,,"sq,el",MK GR CS ME RS XK 
+"1,580 square kilometres","26,711",AX,Aland Islands,Euro,Mariehamn,EU,.ax,EUR,+358-18,#####,^(?:FI)*(\d{5})$,sv-AX, 
